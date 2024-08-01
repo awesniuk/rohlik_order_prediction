@@ -52,5 +52,3 @@ The notebook includes visualizations to illustrate:
 * Experiment with different model architectures and hyperparameters.
 * Consider using a more sophisticated meta-model.
 * Implement cross-validation for robust model evaluation.
-
-This notebook provides a solid foundation for tackling the Rohlik Orders Forecasting Challenge. Feel free to adapt and improve upon this solution to achieve even better results!
